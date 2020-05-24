@@ -1,0 +1,6 @@
+{
+    "port": 5000,
+    "jwtSecret": "kataevJwtSecretCode",
+    "mongoUri": "mongodb+srv://coller:300391@claster0-lvmlz.azure.mongodb.net/app?retryWrites=true&w=majority",
+    "baseUrl": "http://localhost:5000"
+}
